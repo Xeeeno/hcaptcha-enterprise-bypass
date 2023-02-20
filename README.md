@@ -5,3 +5,4 @@ The documentation is pretty simple: https://docs.capsolver.com/guide/captcha/HCa
 
 Remember that you need to use HCaptchaEnterpriseTask with your own proxy or HCaptchaEnterpriseTaskProxyless for proxy-less
 
+
